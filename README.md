@@ -42,7 +42,7 @@ python xd_test.py
 
 Parts of the implementation are adapted from the following repositories:
 
-- [XDVioDet](https://github.com/nwpu-zxr/VadCLIP)
+- [VADCLIP](https://github.com/nwpu-zxr/VadCLIP)
 - [DeepMIL](https://github.com/Roc-Ng/DeepMIL)
 
 We thank the authors for making their code publicly available.
