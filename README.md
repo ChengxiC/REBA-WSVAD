@@ -56,6 +56,7 @@ After downloading the models, place them into the `model/` directory.
 Parts of the implementation are adapted from the following repositories:
 - [VADCLIP](https://github.com/nwpu-zxr/VadCLIP)
 - [DeepMIL](https://github.com/Roc-Ng/DeepMIL)
+  
 We thank the authors for making their code publicly available.
 
 
