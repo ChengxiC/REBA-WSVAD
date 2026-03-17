@@ -26,17 +26,30 @@ The code is developed under the following environment:
 
 Run the following commands:
 
-########################################### UCF-Crime
+######################## UCF-Crime ###################
 # training
 python ucf_train.py
 # testing
 python ucf_test.py
 
-########################################### XD-Violence
+######################## XD-Violence ###################
 # training
 python xd_train.py
 # testing
 python xd_test.py
+
+
+## Pretrained Models
+
+We provide the pretrained models for reproducibility.
+
+| Dataset | Download |
+|--------|---------|
+| UCF-Crime | [Google Drive](https://drive.google.com/drive/folders/1E7pHAeSJ2vuX1VRhEYfwqwIdI-uL92nH) |
+| XD-Violence | [Google Drive](https://drive.google.com/drive/folders/1E7pHAeSJ2vuX1VRhEYfwqwIdI-uL92nH) |
+
+After downloading the models, place them into the `model/` directory.
+
 
 ## References
 
