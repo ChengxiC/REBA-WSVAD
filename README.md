@@ -4,6 +4,7 @@ weakly supervised VAD via RMoE and BiAlign
 The code is developed under the following environment:
 - OS: Windows 10 Pro
 - PyTorch: 2.6.0
+- CUDA: 11.8
 - Python: 3.10
 - Main dependencies:
   - numpy>=1.23
