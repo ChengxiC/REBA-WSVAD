@@ -23,9 +23,7 @@ The code is developed under the following environment:
   - torchvision
 
 ## Train and Test
-
 Run the following commands:
-
 ######################## UCF-Crime ###################
 # training
 python ucf_train.py
@@ -39,10 +37,13 @@ python xd_train.py
 python xd_test.py
 
 
+## Features
+The pre-extracted CLIP features for the UCF-Crime and XD-Violence datasets can be downloaded from the following link:
+(https://github.com/nwpu-zxr/VadCLIP)
+After downloading, place the feature files in the corresponding dataset.
+
 ## Pretrained Models
-
 We provide the pretrained models for reproducibility.
-
 | Dataset | Download |
 |--------|---------|
 | UCF-Crime | [Google Drive](https://drive.google.com/drive/folders/1E7pHAeSJ2vuX1VRhEYfwqwIdI-uL92nH) |
@@ -52,12 +53,9 @@ After downloading the models, place them into the `model/` directory.
 
 
 ## References
-
 Parts of the implementation are adapted from the following repositories:
-
 - [VADCLIP](https://github.com/nwpu-zxr/VadCLIP)
 - [DeepMIL](https://github.com/Roc-Ng/DeepMIL)
-
 We thank the authors for making their code publicly available.
 
 
