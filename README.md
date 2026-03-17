@@ -1,5 +1,6 @@
 # REBA-WSVAD
 weakly supervised VAD via RMoE and BiAlign
+
 ## Environment
 The code is developed under the following environment:
 - OS: Windows 10 Pro
@@ -23,7 +24,7 @@ The code is developed under the following environment:
 
 ## Train and Test
 
-After completing the environment setup, run the following commands.
+Run the following commands:
 
 ########################################### UCF-Crime
 # training
