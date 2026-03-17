@@ -5,9 +5,16 @@ weakly supervised VAD via RMoE and BiAlign
 
 After completing the environment setup, run the following commands.
 
+### UCF-Crime
+
+# training
+python ucf_train.py
+
+# testing
+python ucf_test.py
+
 ### XD-Violence
 
-```bash
 # training
 python xd_train.py
 
