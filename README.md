@@ -24,6 +24,7 @@ The code is developed under the following environment:
 
 ## Train and Test
 Run the following commands:
+
 ######################## UCF-Crime ###################
 # training
 python ucf_train.py
