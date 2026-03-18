@@ -26,16 +26,12 @@ The code is developed under the following environment:
 Run the following commands:
 
 ######################## UCF-Crime ###################
-# training
-python ucf_train.py
-# testing
-python ucf_test.py
+training: python ucf_train.py
+Inference: python ucf_test.py
 
 ######################## XD-Violence ###################
-# training
-python xd_train.py
-# testing
-python xd_test.py
+training: python xd_train.py
+Inference: python xd_test.py
 
 
 ## Features
