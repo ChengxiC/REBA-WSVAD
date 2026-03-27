@@ -1,6 +1,8 @@
 # REBA-WSVAD
 weakly supervised VAD via RMoE and BiAlign
 
+![Framework](model/framework.png)
+
 ## Environment
 The code is developed under the following environment:
 - OS: Windows 10 Pro
