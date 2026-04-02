@@ -2,7 +2,7 @@
 
 This is the official Pytorch implementation of our paper: "REBA: Residual Mixture-of-Experts and Bidirectional Video–Text Alignment for Better Fine-grained Weakly Supervised Video Anomaly Detection" in CVPR 2026 findings track.
 
-Chengxi Chu Nurul Japar* Chee Kau Lim
+Chengxi Chu, Nurul Japar*, Chee Kau Lim
 
 Faculty of Computer Science and Information Technology, Universiti Malaya
 
