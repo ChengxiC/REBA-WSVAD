@@ -6,7 +6,7 @@ Chengxi Chu, Nurul Japar*, Chee Kau Lim
 
 Faculty of Computer Science and Information Technology, Universiti Malaya
 
-![Framework](model/framework.png)
+![Framework](model/framework.jpg)
 
 ## Environment
 The code is developed under the following environment:
