@@ -1,4 +1,4 @@
-# REBA-WSVAD
+# REBA-----Weakly Supervised Video Anomaly Detection
 
 This is the official Pytorch implementation of our paper: "REBA: Residual Mixture-of-Experts and Bidirectional Video–Text Alignment for Better Fine-grained Weakly Supervised Video Anomaly Detection" in CVPR 2026 findings track.
 
