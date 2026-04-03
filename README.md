@@ -4,7 +4,7 @@ This is the official Pytorch implementation of our paper: "REBA: Residual Mixtur
 
 Chengxi Chu, Nurul Japar*, Chee Kau Lim
 
-Faculty of Computer Science and Information Technology, Universiti Malaya
+Faculty of Computer Science and Information Technology, Universiti Malaya, Malaysia
 
 ![Framework](model/framework.jpg)
 
