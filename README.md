@@ -59,7 +59,7 @@ After downloading, place the feature files in the corresponding dataset.
 
 ## Pretrained Models
 We provide the pretrained models for reproducibility.
-| Dataset | Download |
+| Dataset | Pretrained |
 |--------|---------|
 | UCF-Crime | [Google Drive](https://drive.google.com/drive/folders/1E7pHAeSJ2vuX1VRhEYfwqwIdI-uL92nH) |
 | XD-Violence | [Google Drive](https://drive.google.com/drive/folders/1E7pHAeSJ2vuX1VRhEYfwqwIdI-uL92nH) |
