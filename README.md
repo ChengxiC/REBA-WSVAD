@@ -50,7 +50,7 @@ Inference: python xd_test.py
 
 ## Features
 The pre-extracted CLIP features for the UCF-Crime and XD-Violence datasets can be downloaded from the following link:
-(https://github.com/nwpu-zxr/VadCLIP)
+[CLIP features](https://github.com/nwpu-zxr/VadCLIP)
 After downloading, place the feature files in the corresponding dataset.
 
 ## Pretrained Models
