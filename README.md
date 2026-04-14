@@ -3,11 +3,11 @@
 This is the official implementation of our paper: 
 > "**REBA: Residual Mixture-of-Experts and Bidirectional Video–Text Alignment for Better Fine-grained Weakly Supervised Video Anomaly Detection**"
 > 
-> in **CVPR 2026 Findings Track**.
-> 
 > Chengxi Chu, Nurul Japar*, Chee Kau Lim
+> 
+>Faculty of Computer Science and Information Technology, Universiti Malaya, Malaysia
 
-Faculty of Computer Science and Information Technology, Universiti Malaya, Malaysia
+- in **CVPR 2026 Findings Track**.
 
 ![Framework](model/framework.jpg)
 
