@@ -32,6 +32,15 @@ The code is developed under the following environment:
   - pyyaml>=6.0
   - torchvision
 
+## Features
+The pre-extracted CLIP features for the UCF-Crime and XD-Violence datasets can be downloaded from the following link:
+
+[UCF-Crime 10-crop CLIP features](https://github.com/nwpu-zxr/VadCLIP)
+
+[XD-Violence 10-crop CLIP features](https://github.com/nwpu-zxr/VadCLIP)
+
+After downloading, place the feature files in the corresponding dataset.
+
 ## Train and Test
 Run the following commands:
 
@@ -46,16 +55,6 @@ Inference: python ucf_test.py
 training: python xd_train.py
 
 Inference: python xd_test.py
-
-
-## Features
-The pre-extracted CLIP features for the UCF-Crime and XD-Violence datasets can be downloaded from the following link:
-
-[UCF-Crime 10-crop CLIP features](https://github.com/nwpu-zxr/VadCLIP)
-
-[XD-Violence 10-crop CLIP features](https://github.com/nwpu-zxr/VadCLIP)
-
-After downloading, place the feature files in the corresponding dataset.
 
 ## Pretrained Models
 We provide the pretrained models for reproducibility.
