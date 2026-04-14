@@ -60,8 +60,8 @@ Inference: python xd_test.py
 We provide the pretrained models for reproducibility.
 | Dataset | Pretrained |
 |--------|---------|
-| UCF-Crime | [Google Drive](https://drive.google.com/drive/folders/1E7pHAeSJ2vuX1VRhEYfwqwIdI-uL92nH) |
-| XD-Violence | [Google Drive](https://drive.google.com/drive/folders/1E7pHAeSJ2vuX1VRhEYfwqwIdI-uL92nH) |
+| UCF-Crime | [Google Drive](https://drive.google.com/file/d/13b0qX4VdVXxRbKzixFiwSyKN0Qj5MXUp/view?usp=drive_link) |
+| XD-Violence | [Google Drive](https://drive.google.com/file/d/1U71aoDTMsUsJnVx94XQnu8CDJ-who2JJ/view?usp=drive_link) |
 
 After downloading the models, place them into the `model/` directory.
 
