@@ -73,7 +73,17 @@ Parts of the implementation are adapted from the following repositories:
   
 We thank the authors for making their code publicly available.
 
+If you find this repository useful for your research, please consider citing our paper:
 
+```bibtex
+@InProceedings{Chu_2026_CVPR,
+    author    = {Chu, Chengxi and Japar, Nurul and Lim, Chee Kau},
+    title     = {REBA: Residual Mixture-of-Experts and Bidirectional Video-Text Alignment for Better Fine-grained Weakly Supervised Video Anomaly Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings},
+    month     = {June},
+    year      = {2026},
+    pages     = {8280--8290}
+}
 
 
 
